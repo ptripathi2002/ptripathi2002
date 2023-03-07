@@ -1,5 +1,5 @@
 <h1 align="center">Ciao 👋, I'm Prashant Tripathi</h1>
-<h3 align="center">A Passionate and a Enthusiastic Web Developer and a Programmer.</h3>
+<h3 align="center">A Passionate and an Enthusiastic Web Developer and a Programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ptripathi2002&label=Profile%20views&color=0e75b6&style=flat" alt="ptripathi2002" /> </p>
 
