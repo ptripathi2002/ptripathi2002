@@ -1,11 +1,7 @@
 <h1 align="center">Ciao 👋, I'm Prashant Tripathi</h1>
-<h3 align="center">A Passionate and an Enthusiastic Web Developer and a Programmer.</h3>
+<h3 align="center">A Passionate and a Enthusiastic Web Developer and a Programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ptripathi2002&label=Profile%20views&color=0e75b6&style=flat" alt="ptripathi2002" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ptripathi2002" alt="ptripathi2002" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently trying to gain expertise in **ReactJS.**
 
