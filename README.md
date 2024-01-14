@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ptripathi2002&label=Profile%20views&color=0e75b6&style=flat" alt="ptripathi2002" /> </p>
 
-- 🌱 I’m currently trying to gain expertise in **ReactJS.**
-
 - 👨‍💻 All of my major Projects are available on [https://portfolio-odhr.onrender.com/](https://portfolio-odhr.onrender.com/)
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **itsmeprashant02@gmail.com**
 
